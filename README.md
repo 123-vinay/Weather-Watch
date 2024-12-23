@@ -24,7 +24,7 @@ This Weather App provides real-time weather information for various cities using
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/BalaPrakash-rakoti/Web-Based-weather-using-OpenWeatherMap.git
+   git clone https://123-vinay.github.io/Weather-Watch//Web-Based-weather-using-OpenWeatherMap.git
    ```
 2. Navigate to the project directory:
    ```bash
