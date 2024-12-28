@@ -53,7 +53,7 @@ Make sure to replace the OpenWeatherMap API key in the JavaScript code with your
 ```
 
 ## Author
-Created by **Rakoti Bala Prakash** #contact@ vinaypabbina@gmail.com
+Created by **Pabbina Vinay** #contact@ vinaypabbina@gmail.com
 
 
 ---
